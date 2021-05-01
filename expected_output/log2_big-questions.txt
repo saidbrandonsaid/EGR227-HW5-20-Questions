@@ -1,0 +1,22 @@
+Welcome to Game of N-Questions!
+
+Which questions file would you like to use? big-questions.txt
+Let's play!  Please choose your object, and I'll start guessing.
+Press Enter when you're ready to begin!
+
+Can it fly? (y/n)? yes
+Does it have feathers? (y/n)? ouch
+Is it extinct? (y/n)? Not yes
+Does it eat nuts? (y/n)? nope
+Does it have fur? (y/n)? YOUCH
+Does it hang upside down? (y/n)? yeehaw
+Does it suck blood? (y/n)? yes :(
+Is it really really big? (y/n)? not at all
+Does it hibernate? (y/n)? never
+Does it eat fruit? (y/n)? yay
+Does it eat fruit AND suck blood? (y/n)? YES
+I guess that your object is vampire bat!
+Am I right? (y/n)? YES
+Awesome! I win!
+
+Do you want to play again (y/n)? n

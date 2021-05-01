@@ -1,0 +1,13 @@
+Welcome to Game of N-Questions!
+
+Which questions file would you like to use? spec-questions.txt
+Let's play!  Please choose your object, and I'll start guessing.
+Press Enter when you're ready to begin!
+
+Is it an animal? (y/n)? n
+Does it have wheels? (y/n)? y
+I guess that your object is bicycle!
+Am I right? (y/n)? y
+Awesome! I win!
+
+Do you want to play again (y/n)? n

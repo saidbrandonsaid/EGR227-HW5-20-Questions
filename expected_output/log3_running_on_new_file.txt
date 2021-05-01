@@ -1,0 +1,48 @@
+Welcome to Game of N-Questions!
+
+Which questions file would you like to use? new-file.txt
+There are no objects to guess in that questions file.
+Can you provide me with an initial object? dog
+Let's play!  Please choose your object, and I'll start guessing.
+Press Enter when you're ready to begin!
+
+I guess that your object is dog!
+Am I right? (y/n)? y
+Awesome! I win!
+
+Do you want to play again (y/n)? y
+Please choose your object, and I'll start guessing.
+Press Enter when you're ready to begin!
+
+I guess that your object is dog!
+Am I right? (y/n)? n
+Boo! I Lose.  Please help me get better!
+What is your object? computer
+Please give me a yes/no question that distinguishes between computer and dog.
+Q: Is it an animal?
+Is the answer "yes" for computer? (y/n)? n
+
+Do you want to play again (y/n)? y
+Please choose your object, and I'll start guessing.
+Press Enter when you're ready to begin!
+
+Is it an animal? (y/n)? y
+I guess that your object is dog!
+Am I right? (y/n)? n
+Boo! I Lose.  Please help me get better!
+What is your object? frog
+Please give me a yes/no question that distinguishes between frog and dog.
+Q: Does it hop?
+Is the answer "yes" for frog? (y/n)? y
+
+Do you want to play again (y/n)? y
+Please choose your object, and I'll start guessing.
+Press Enter when you're ready to begin!
+
+Is it an animal? (y/n)? y
+Does it hop? (y/n)? n
+I guess that your object is dog!
+Am I right? (y/n)? y
+Awesome! I win!
+
+Do you want to play again (y/n)? n
